@@ -1,2 +1,0 @@
-# ali
-js with ali
